@@ -11,7 +11,7 @@ Projeto visa a resolução de captchas usando visão computacional.
  
 # Compilação
   - Utiliza apache maven para a compilação.
-  - comando <<mvn clean install>> irá gerar um jar na pasta target
+  - << mvn clean install >> irá gerar um jar na pasta target
 
 # Execução
   - Transfira o jar e as pastas model, node e nodevm para um diretório ou pasta de sua escolha.
